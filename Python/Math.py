@@ -17,7 +17,7 @@ while True:
         break
     elif operação == "divisão":
         if num2 == 0:
-            print("Erro: divisão por zero não é permitida!")
+            print("Divisão por zero não é permitida!")
         else:
             print(f"A divisão de {num1} / {num2} = {num1 / num2}")
         break
